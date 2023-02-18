@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+@font-face {
+  font-family: "Optima";
+  src: url("../public/fonts/Optima.ttf");
+  font-weight: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Optima nova LT Pro";
+  src: url("../public/fonts/OptimaNovaLTProMedium.otf");
+  font-style: medium;
+  font-weight: normal;
+  font-display: swap;
+}
